@@ -1,0 +1,356 @@
+
+.mainHome .box-1 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/How-Should-We-Welcome-the-Jesus-Christ-When-He-Knocks-on-the-Door.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-2 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/sword.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-3 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/maxresdefault.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-4 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/true-repentance.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-5 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/IMG-20200120-WA0006.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-6 {
+    width: 100%;
+    height: 65vh;
+    background-image: url('../../pic/IMG-20200120-WA0007.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-7 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/IMG_20200926_124853.jpg');
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+.mainHome .box-8 {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../pic/IMG_20200926_083105.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.mainHome .box-9 {
+    width: 100%;
+    height: 70vh;
+    background-image: url('../../pic/The-Word-of-God-is-the-Will-of-God.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.mainHome .box-10 {
+    width: 100%;
+    height: 80vh;
+    background-image: url('../../pic/IMG_20200926_124849.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.box-1-items{
+    position: relative;
+    margin-left: 19%;
+    padding-top: 100px;
+    
+
+}
+.boxMe{
+    display: none;
+}
+.box-1-items h1{
+    color: white;
+}
+.letTalk{
+    margin-bottom: 90px;
+}
+.h1Title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+} 
+.master h1{
+    margin-left: 50%;
+    margin-bottom: 30px;
+}
+.aboutMaster img{
+    width: 700px
+}
+.aboutJesus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.master{
+    margin-bottom: 60px;
+}
+.aboutMaster img {
+    margin-left: 20%;
+}
+.aboutMaster h4 {
+    margin-left: 30%;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.aboutMaster{
+    margin-bottom: 50px;
+}
+.Home{
+    margin: 60px 0;
+}
+.readyInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.infoReady hr{
+    width: 80%;
+    margin-top: -3px;
+    margin-left: 10%;
+    border: 1px solid blue;
+}
+.wayInfo{
+    margin-top: 70px;
+    display: flex;
+    width: 100%;
+}
+.wayImg{
+    width: 30%;
+}
+.wayImg1 img{
+    width: 100%;
+}
+.wayImg2 img{
+    width: 100%;
+}
+.wayImg{
+    margin: 0 10%;
+}
+.fastImg{
+    width: 32px;
+    margin-left: 25%;
+    margin-top: -30px;
+}
+
+.wayImg2:hover{
+    cursor: pointer;
+}
+.beliveMe{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.belive hr{
+    width: 50%;
+    margin-top: -3px;
+    margin-left: 25%;
+    border: 1px solid blue;
+}
+.both{
+    display: flex;
+    justify-content: space-evenly;
+}
+.finalMsg{
+    margin-top: 50px;
+}
+.homeNow{
+    margin-bottom: 200%;
+}
+@media screen and ( max-width: 414px){
+    .mainHome .box-1 {
+        width: 100%;
+        height: 30vh;
+    }
+    .mainHome .box-2 {
+        width: 100%;
+        height: 30vh;
+    }
+    .mainHome .box-3 {
+        
+        width: 100%;
+        height: 30vh;
+    }
+    .mainHome .box-4 {
+        width: 100%;
+        height: 30vh;
+    }
+    .box-1-items{
+        position: relative;
+        margin-left: 19%;
+        padding-top: 10px;
+        
+    
+    }
+    .getStartBtn{
+        margin-top: 50px;
+    }
+    .box-1-items h1{
+        font-size: 20px;
+    }
+    .box-1-items h4{
+        font-size: 10px;
+    }
+    .aboutMaster{
+        width: 100%;
+    }
+    
+    .aboutMaster img{
+        width: 100%;
+    }
+    .aboutMaster h4 {
+        margin-left: 0%;
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+    .aboutMaster img {
+        margin-left: 0%;
+    }
+    .master h1{
+        margin-left: 25%;
+        margin-bottom: 30px;
+    }
+    .letTalk{
+        margin-bottom: -90px;
+    }
+    .h1Title h1{
+        margin-top: 50px;
+        margin-bottom: -100px;
+    }
+    .mainHome .box-5 {
+        width: 100%;
+        height: 30vh;
+        background-image: url('../../pic/IMG-20200120-WA0006.jpg');
+        background-position: center;
+        background-size: cover;
+        align-items: center;
+    }
+    .mainHome .box-6 {
+        width: 100%;
+        height: 25vh;
+        background-image: url('../../pic/IMG-20200120-WA0007.jpg');
+        background-position: center;
+        background-size: cover;
+        align-items: center;
+    }
+    .mainHome .box-7 {
+        width: 100%;
+        height: 40vh;
+        background-image: url('../../pic/IMG_20200926_124853.jpg');
+        background-position: center;
+        background-size: cover;
+        align-items: center;
+    }
+    .mainHome .box-8 {
+        width: 100%;
+        height: 40vh;
+        background-image: url('../../pic/IMG_20200926_083105.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        align-items: center;
+    }
+    .mainHome .box-9 {
+        width: 100%;
+        height: 30vh;
+        background-image: url('../../pic/The-Word-of-God-is-the-Will-of-God.png');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        align-items: center;
+    }
+    .mainHome .box-10 {
+        width: 100%;
+        height: 40vh;
+        background-image: url('../../pic/IMG_20200926_124849.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        align-items: center;
+    }
+    .videoSlot{
+        margin-bottom: 50px;
+    }
+    .readyInfo h1{
+        font-size: 22px;
+    }
+    .infoReady hr{
+        width: 100%;
+        margin-top: -3px;
+        margin-left: 1%;
+        border: 1px solid blue;
+    }
+    .wayInfo{
+        display: block;
+    }
+    .wayImg1 img{
+        width: 200%;
+    }
+    .wayImg2 img{
+        width: 200%;
+    }
+    .wayImg{
+        margin: 0 0%;
+        width: 50%;
+    }
+    .wayImg h3{
+        margin-left: 30px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .wayImg1{
+        margin-bottom: 50px;
+    }
+    .fastImg{
+        width: 22px;
+        margin-left: 70%;
+        margin-top: -20px;
+    }
+    .beliveMe h1{
+        font-size: 20px;
+    }
+    .belive hr{
+        width: 70%;
+        margin-top: -3px;
+        margin-left: 15%;
+        border: 1px solid blue;
+    }
+    .lastMsg img{
+        width: 100%;
+    }
+}

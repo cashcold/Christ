@@ -1,0 +1,19 @@
+.aboutMain{
+    margin: 60px 0;
+    height: 15vh;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.527);
+    padding-top: 40px;
+    color: white;
+}
+.aboutChrsit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 414px){
+    .aboutChrsit h1{
+        font-size: 18px;
+    }
+}

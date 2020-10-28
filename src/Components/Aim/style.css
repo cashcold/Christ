@@ -1,0 +1,11 @@
+.AimMain{
+    margin-top: 50px;
+}
+.ainNow{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    height: 15vh;
+    width: 100%;
+    background-color: rgba(0, 204, 255, 0.527);
+}
